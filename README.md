@@ -1,8 +1,8 @@
 # Bajke
 
--   [Ukleti Kraljević i Čelik-Henrik](ukleti_kraljević_i_celik_henrik.md)
--   [Klatež](klatež.md)
--   [Priča o čovjeku koji je htio da nauči strahovati](prica_o_covjeku_koji_je_htio_da_nauci_strahovati.md)
+-   [Ukleti Kraljević i Čelik-Henrik](ukleti_kraljević_i_celik_henrik.md/)
+-   [Klatež](klatež.md/)
+-   [Priča o čovjeku koji je htio da nauči strahovati](prica_o_covjeku_koji_je_htio_da_nauci_strahovati.md/)
 -   [Palčić](https://lektire.skole.hr/stranica/palcic/)
 -   [Vuk i sedmoro jaradi](https://lektire.skole.hr/stranica/vuk-i-sedmoro-jaradi/)
 -   [Tri čovječuljka u šumi](https://lektire.skole.hr/stranica/tri-covjeculjka-u-sumi/)
